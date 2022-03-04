@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "bubblewrap": "^0.2.0"
+  },
+  "name": "revolt-android",
+  "version": "1.0.0",
+  "description": "Android TWA",
+  "repository": "https://github.com/revoltchat/android-twa",
+  "author": "Paul Makles <insrt.uk>",
+  "license": "MIT",
+  "scripts": {
+    "build": "bubblewrap build",
+    "install": "bubblewrap install"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "packageId": "chat.revolt.app.twa",
+  "host": "app.revolt.chat",
+  "name": "Revolt",
+  "launcherName": "Revolt",
+  "display": "standalone",
+  "themeColor": "#101823",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#101823",
+  "enableNotifications": true,
+  "startUrl": "/",
+  "iconUrl": "https://app.revolt.chat/assets/icons/android-chrome-512x512.png",
+  "maskableIconUrl": "https://app.revolt.chat/assets/icons/masking-512x512.png",
+  "monochromeIconUrl": "https://app.revolt.chat/assets/icons/monochrome.svg",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "./android.keystore",
+    "alias": "android"
+  },
+  "appVersionName": "7",
+  "appVersionCode": 7,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://app.revolt.chat/manifest.webmanifest",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "orientation": "portrait",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "appVersion": "7"
+}

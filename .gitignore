@@ -1,0 +1,10 @@
+# repo
+node_modules
+*.keystore
+.gradle
+
+# build files
+app
+*.aab
+*.apk
+*idsig
