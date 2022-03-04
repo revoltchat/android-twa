@@ -3,8 +3,7 @@
 This is a Trusted Web Activity for Android devices.
 
 - [Get it on Google Play](https://play.google.com/store/apps/details?id=chat.revolt.app.twa)
-- F-droid soon!
-
+- [Get it with F-droid](https://fdroid.revolt.chat/repo/)
 
 ## Build
 
